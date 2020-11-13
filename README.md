@@ -1,2 +1,2 @@
-# Atividades_generation_Portugol
-Atividades realizadas no dia 11/11/20 através do Portugol_Vetores e Matrizes
+# Atividades Portugol
+Atividades realizadas através do Portugol no perído do Bootcamp da Generation. Assuntos: Vetores e Matrizes.
